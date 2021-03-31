@@ -38,6 +38,3 @@ pip3 install google-api-python-client discord.py
 ### Discord UID for optional mention in the notification messages
 1. In Discord, go to User Settings
 2. Click the little three dots next to your Avatar / Name / Badges and click "Copy ID"
-
-## License
-Not a lawyer. In general - You are free to Copy / Distribute / Modify this script as you find the need to, with or without credits to this repo.
