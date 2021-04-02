@@ -96,6 +96,7 @@ if discord_uid != 0:
 #Check if we know of them all, and if not, send
 #a ping for each new video to discord
 while True:
+    i = 0
     newTitles = list()
     foundNew = False
     now=datetime.now().strftime("%d/%m/%Y %H:%M:%S")
